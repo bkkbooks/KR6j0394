@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0394/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說金剛香菩薩大明成就儀軌經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1170.xml
+    old_id: T20n1170
+hash: sha256:439a15a3b0adcd4a1be7ed1e70130c69bf5bb2693726398c435e8f00f79fa274

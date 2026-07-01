@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6j0394/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0394/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說金剛香菩薩大明成就儀軌經
+  identifiers:
+    krp: KR6j0394
+    cbeta: T20n1170
+    cbeta_old_id: T20n1170
+    authorityid: CA0001763
+    json_key: T1170
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1170.xml
+    old_id: T20n1170
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0394_000-T.yaml, hash: 'sha256:439a15a3b0adcd4a1be7ed1e70130c69bf5bb2693726398c435e8f00f79fa274'}
+  - {seq: 1, filename: KR6j0394_001-T.yaml, hash: 'sha256:aceb68dff483a16858e1847f4d4b178f57bb5fd9398b361d667b6c97e186d740'}
+  - {seq: 2, filename: KR6j0394_002-T.yaml, hash: 'sha256:7ac6f88a259d15774fa7c7d4157365a70a0320762d96909543ba51bee960c07c'}
+  - {seq: 3, filename: KR6j0394_003-T.yaml, hash: 'sha256:11e33bf631bcd9c7ccef3fcfbf9202101164e03d6d249be8143269f7208db305'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0394_000-T.markers.yaml, hash: 'sha256:b88ccf9c205ad8acec0bde8dda7dbd97941b2fd58198527fe30c8330a9b91f36'}
+  - {seq: 1, role: markers, filename: assets/KR6j0394_001-T.markers.yaml, hash: 'sha256:636af95145f8e31ff10bfe90cae84baba01fc2406cf4da7da0d53fe857a795a4'}
+  - {seq: 2, role: markers, filename: assets/KR6j0394_002-T.markers.yaml, hash: 'sha256:40e0da28a06629b4efb0fdfcd585320e57fdb63ea1e777b13429f3f328cc0220'}
+  - {seq: 3, role: markers, filename: assets/KR6j0394_003-T.markers.yaml, hash: 'sha256:90326bdb212009bf8b729c05a6d94c655bdd13f06ca42ad0647f999311fbd3ea'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0394_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4730
+  label: '佛說金剛香菩薩大明成就儀軌
+
+    經卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0394_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5380
+  label: '佛說金剛香菩薩大明成就儀軌
+
+    經卷中'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0394_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7817
+  label: '佛說金剛香菩薩大明成就儀軌
+
+    經卷下'
+  type: juan
+  level: 1
+hash: sha256:1015e5114e06ba14b74c5776288edc48004c61275dc17eeb7d4350d71bcd1e03
